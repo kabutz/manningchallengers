@@ -11,3 +11,4 @@ class CalculatorSum {
         System.out.println(sumResult);
     }
 }
+// 4

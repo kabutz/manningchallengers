@@ -20,3 +20,7 @@ class AnimalAttributes {
         System.out.println(cat.emittedSound);
     }
 }
+// Husky
+// woof
+// Persian
+// meow

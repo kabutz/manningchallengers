@@ -22,3 +22,4 @@ public class MetalGearReference {
     }
 
 }
+// 1 soldier=Big Boss 2 soldier=Big Boss

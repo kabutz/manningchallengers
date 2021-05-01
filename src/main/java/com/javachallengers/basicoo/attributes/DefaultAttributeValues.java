@@ -17,3 +17,8 @@ public class DefaultAttributeValues {
         System.out.println(values.margeSenseOfHumor);
     }
 }
+// false
+// 0
+// 0.0
+// invisible
+// null

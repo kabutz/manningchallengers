@@ -12,3 +12,4 @@ class CalculatorMultiplication {
     }
 
 }
+// 4.0

@@ -7,3 +7,4 @@ public class SimpsonCharacter {
     }
 
 }
+// nothing

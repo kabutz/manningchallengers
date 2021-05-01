@@ -10,3 +10,4 @@ class MessageParameter {
         System.out.println(message);
     }
 }
+// You are a Java Challenger
